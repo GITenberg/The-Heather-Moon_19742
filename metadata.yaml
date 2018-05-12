@@ -1,0 +1,38 @@
+_repo: The-Heather-Moon_19742
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19742-h/images/HM_cover.png
+creator:
+  authors:
+  - agent_name: Williamson, A. M. (Alice Muriel)
+    aliases:
+    - Williamson, Alice Muriel
+    - Williamson, Mrs. C. N.
+    birthdate: 1869
+    deathdate: 1933
+    gutenberg_agent_id: '3796'
+    url: http://www.gutenberg.org/2009/agents/3796
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Muriel_Williamson
+  - agent_name: Williamson, C. N. (Charles Norris)
+    alias: Williamson, Charles Norris
+    birthdate: 1859
+    deathdate: 1920
+    gutenberg_agent_id: '3522'
+    url: http://www.gutenberg.org/2009/agents/3522
+description: ''
+gutenberg_issued: '2006-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19742'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Great Britain -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+title: The Heather-Moon
+url: http://www.gutenberg.org/ebooks/19742
